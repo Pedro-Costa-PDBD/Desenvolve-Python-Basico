@@ -1,0 +1,4 @@
+1 -  Leia do teclado e armazene o número que se deseja multiplicar por 9;
+2 -  Aplique a operação de multiplicação sobre o dígito 9 e o número recebido e armazene o 
+resultado;
+3 - Imprima o resultado da operação na tela e finalize o progrma;
