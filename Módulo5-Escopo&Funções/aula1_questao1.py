@@ -1,0 +1,5 @@
+n1 = float(input("Digite o primeiro número: "))
+n2 = float(input("Digite o segundo número: "))
+result = abs(n1 - n2)
+result_2 = round(result,2)
+print(f"A diferença absoluta é: {result_2}")
